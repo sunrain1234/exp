@@ -2,6 +2,7 @@ import java.util.*;
 //add to test
 //add to test second
 //add to test third
+//add to test first
 public class lab1 {
 
 	public static void main(String[] args) {
